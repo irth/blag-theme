@@ -29,7 +29,7 @@ body {
 }
 
 .col {
-    margin-top: 4em;
+    margin-top: 10vh;
 }
 
 @media only screen and (max-width: 960px) {
